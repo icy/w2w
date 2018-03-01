@@ -48,6 +48,7 @@ TOC
 * 2015, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * 2015, SendwithUs, From PostgreSQL to DynamoDB, http://blog.sendwithus.com/from-postgresql-to-dynamodb/
 * 2014, Plug.Dj, How To Migrate 50M+ Records From Mongo To PostgreSQL In Less Than A Day, http://web.archive.org/web/20141019214613/http://tech.plug.dj/2014/09/24/how-to-migrate-50mm-records-from-mongo-to-postgresql-in-less-than-a-day/
+* 2013, Tellybug, Why Tellybug moved from Cassandra to Amazon DynamoDB, https://attentionshard.wordpress.com/2013/09/30/why-tellybug-moved-from-cassandra-to-amazon-dynamodb/
 * 2013, Errbit, MongoDB is dead. Long live Postgresql :), https://github.com/errbit/errbit/issues/614
 * 2013, Sarah Mei, Why You Should Never Use MongoDB, http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
 * 2012, Andreas Jung, Goodbye MongoDB, https://www.zopyx.com/andreas-jung/contents/goodbye-mongodb
