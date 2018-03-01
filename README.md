@@ -30,6 +30,7 @@ TOC
 * 2017, Yik Yak, Why we moved to Go (Golang)…, https://medium.com/yik-yak-eng/why-we-moved-to-go-golang-c3ff1beb8698
 * 2016, Jonathan Oliver, Why I Left the .NET Framework, http://blog.jonathanoliver.com/why-i-left-dot-net/
 * 2016, Keycloak, Considering removing Mongo from Keycloak, http://blog.keycloak.org/2016/12/considering-removing-mongo-from-keycloak.html
+* 2013, PlotProjects, Why We Started Using PostgreSQL with Slick Next to MongoDB, https://www.plotprojects.com/blog/why-we-use-postgresql-and-slick/
 * 2012, Targeter App, Why we moved from NodeJS to RoR, http://blog.targeterapp.com/post/22984987832/why-we-moved-from-nodejs-to-ror, https://news.ycombinator.com/item?id=3971867
 * 2011, Liip, Why we stick to PHP, https://www.liip.ch/en/blog/why-we-stick-to-php, https://news.ycombinator.com/item?id=2257327
 
