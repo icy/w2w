@@ -15,6 +15,7 @@
 ## Databases
 
 * 2017, Shippable, Why We Moved From NoSQL MongoDB to PostgreSQL, http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql?0
+* 20xx, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 
 ## Source code
 
