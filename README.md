@@ -21,6 +21,7 @@
 * 2009, ServerDensity, Choosing a non-relational database; why we migrated from MySQL to MongoDB, https://blog.serverdensity.com/choosing-a-non-relational-database-why-we-migrated-from-mysql-to-mongodb/
 * 20xx, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 
-## Source code
+## SCM
 
 * 2016, Shippable, Our journey to microservices: mono repo vs multiple repositories, http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository
+* 2016, Beats (Elastic), The Beats are Moving Together into a Single Git Repository, https://www.elastic.co/blog/the-beats-are-moving-together-into-single-git-repository
