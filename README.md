@@ -3,6 +3,7 @@ TOC
 * [Infrastructure](#infrastructures)
 * [Programming Languages](#programming-languages)
 * [Databases](#databases)
+* [Queue](#queue)
 * [SCM](#scm)
 * [Why they left or join a company](#why-they-left-or-joined-a-company)
 
@@ -34,6 +35,10 @@ TOC
 * 2013, Sarah Mei, Why You Should Never Use MongoDB, http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
 * 2009, ServerDensity, Choosing a non-relational database; why we migrated from MySQL to MongoDB, https://blog.serverdensity.com/choosing-a-non-relational-database-why-we-migrated-from-mysql-to-mongodb/
 * 20xx, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
+
+## Queue
+
+* 2015, Auth0 Webtasks, From Kafka to ZeroMQ for real-time log aggregation, https://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html
 
 ## SCM
 
