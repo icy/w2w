@@ -1,6 +1,6 @@
 TOC
 
-* [Infrastructure](#infrastructures)
+* [Infrastructure](#infrastructure)
 * [Programming Languages](#programming-languages)
 * [Databases](#databases)
 * [Queue](#queue)
