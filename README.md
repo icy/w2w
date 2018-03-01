@@ -42,6 +42,7 @@ TOC
 * 2017, Forrest Brazeal, Why Amazon DynamoDB isn’t for everyone, https://read.acloud.guru/why-amazon-dynamodb-isnt-for-everyone-and-how-to-decide-when-it-s-for-you-aefc52ea9476
 * 2017, Shippable, Why We Moved From NoSQL MongoDB to PostgreSQL, http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql?0
 * 2017, OpenSCG's customer, Migrating from MongoDB (back) to PostgreSQL, https://www.openscg.com/2017/03/migrating-from-mongodb-to-postgresql/
+* 2016, Code Barrel, Why we switched from DynamoDB back to RDS before we even released, https://blog.codebarrel.io/why-we-switched-from-dynamodb-back-to-rds-before-we-even-released-3c2ee092120c
 * 2016, Uber, Why Uber Engineering Switched from Postgres to MySQL, https://eng.uber.com/mysql-migration/
 * 2016, Pulp, Plan replacement of mongodb with postgres, https://pulp.plan.io/issues/1803
 * 2015, Shawn Chiao, Postmortem: Migrating MongoDB to DynamoDB, https://www.codementor.io/mantle0/handling-date-and-datetime-in-dynamodb-du107mpin
