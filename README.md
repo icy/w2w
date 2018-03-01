@@ -38,6 +38,7 @@ TOC
 
 ## Why they left or joined a company
 
+* 2018, Steve Yegge, Why I left Google to join Grab, https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84
 * 2013, Ellen Huerta, Why I left Google, https://medium.com/this-happened-to-me/why-i-left-google-c02f1ff471c6
 * 2012, James Whittaker, Why I left Google, https://blogs.msdn.microsoft.com/jw_on_tech/2012/03/13/why-i-left-google/
 * 2012, James Whittaker, Why I left Google, http://www.docjamesw.com/why-i-left-google-redux/
