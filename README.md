@@ -75,6 +75,7 @@ TOC
 
 * 2018, Michael Lynch, Why I Quit Google to Work for Myself, https://mtlynch.io/why-i-quit-google
 * 2018, Steve Yegge, Why I left Google to join Grab, https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84, https://news.ycombinator.com/item?id=16220666
+* 2016, Kurt Varner, Why I'm joining Dropbox, https://medium.com/@kurtvarner/why-im-joining-dropbox-b30f44ce3c61
 * 2013, Ellen Huerta, Why I left Google, https://medium.com/this-happened-to-me/why-i-left-google-c02f1ff471c6
 * 2012, Karen X. Cheng, Why I quit Microsoft, http://www.karenx.com/blog/why-i-quit-microsoft/
 * 2012, James Whittaker, Why I left Google, https://blogs.msdn.microsoft.com/jw_on_tech/2012/03/13/why-i-left-google/
