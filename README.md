@@ -10,3 +10,4 @@
 * 2017, Hackernoon, 5 Reasons Why We switched from Python To Go, https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690
 * 2017, Movio, Making The Move From Scala To Go, And Why We’re Not Going Back, https://movio.co/en/blog/migrate-Scala-to-Go/
 * 2012, Targeter App, Why we moved from NodeJS to RoR, http://blog.targeterapp.com/post/22984987832/why-we-moved-from-nodejs-to-ror, https://news.ycombinator.com/item?id=3971867
+* 2011, Liip, Why we stick to PHP, https://www.liip.ch/en/blog/why-we-stick-to-php, https://news.ycombinator.com/item?id=2257327
