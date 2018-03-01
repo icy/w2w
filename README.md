@@ -36,6 +36,7 @@ TOC
 
 ## Databases
 
+* 2017, auth0, From Hosting MongoDB to DynamoDB, https://auth0.com/blog/how-to-migrate-from-hosting-mongodb-to-dynamodb/
 * 2017, Gumgum, Moving to amazon dynamodb from hosted cassandra: a leap towards 60% cost saving per year, http://techblog.gumgum.com/articles/moving-to-amazon-dynamodb-from-hosted-cassandra
 * 2017, Ravelin, You probably shouldn’t use DynamoDB, https://syslog.ravelin.com/you-probably-shouldnt-use-dynamodb-89143c1287ca
 * 2017, Forrest Brazeal, Why Amazon DynamoDB isn’t for everyone, https://read.acloud.guru/why-amazon-dynamodb-isnt-for-everyone-and-how-to-decide-when-it-s-for-you-aefc52ea9476
