@@ -38,6 +38,7 @@ TOC
 * 2015, Userlike, Bye Bye MySQL & MongoDB. Guten Tag PostgreSQL, https://userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql
 * 2015, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * 2013, Sarah Mei, Why You Should Never Use MongoDB, http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
+* 2012, digiDoc, Why I Migrated Away From MongoDB, http://svs.io/post/31724990463/why-i-migrated-away-from-mongodb
 * 2009, ServerDensity, Choosing a non-relational database; why we migrated from MySQL to MongoDB, https://blog.serverdensity.com/choosing-a-non-relational-database-why-we-migrated-from-mysql-to-mongodb/
 
 ## Queue
