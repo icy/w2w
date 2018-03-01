@@ -1,3 +1,10 @@
+TOC
+
+* [Infrastructure](#infrastructures)
+* [Programming Languages](#programming-languages)
+* [Databases](#databases)
+* [SCM](#scm)
+* [Why they left or join a company](#why-they-left-or-joined-a-company)
 
 ## Infrastructure
 
