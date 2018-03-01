@@ -36,6 +36,7 @@ TOC
 
 ## Databases
 
+* 2017, Ravelin, You probably shouldn’t use DynamoDB, https://syslog.ravelin.com/you-probably-shouldnt-use-dynamodb-89143c1287ca
 * 2017, Forrest Brazeal, Why Amazon DynamoDB isn’t for everyone, https://read.acloud.guru/why-amazon-dynamodb-isnt-for-everyone-and-how-to-decide-when-it-s-for-you-aefc52ea9476
 * 2017, Shippable, Why We Moved From NoSQL MongoDB to PostgreSQL, http://blog.shippable.com/why-we-moved-from-nosql-mongodb-to-postgressql?0
 * 2017, OpenSCG's customer, Migrating from MongoDB (back) to PostgreSQL, https://www.openscg.com/2017/03/migrating-from-mongodb-to-postgresql/
