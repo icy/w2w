@@ -36,9 +36,9 @@ TOC
 * 2017, OpenSCG's customer, Migrating from MongoDB (back) to PostgreSQL, https://www.openscg.com/2017/03/migrating-from-mongodb-to-postgresql/
 * 2016, Uber, Why Uber Engineering Switched from Postgres to MySQL, https://eng.uber.com/mysql-migration/
 * 2015, Userlike, Bye Bye MySQL & MongoDB. Guten Tag PostgreSQL, https://userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql
+* 2015, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * 2013, Sarah Mei, Why You Should Never Use MongoDB, http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
 * 2009, ServerDensity, Choosing a non-relational database; why we migrated from MySQL to MongoDB, https://blog.serverdensity.com/choosing-a-non-relational-database-why-we-migrated-from-mysql-to-mongodb/
-* 20xx, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 
 ## Queue
 
