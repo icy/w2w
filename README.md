@@ -28,3 +28,8 @@
 
 * 2016, Shippable, Our journey to microservices: mono repo vs multiple repositories, http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository
 * 2016, Beats (Elastic), The Beats are Moving Together into a Single Git Repository, https://www.elastic.co/blog/the-beats-are-moving-together-into-single-git-repository
+
+## Why they left or joined a company
+
+* 2012, James Whittaker, Why I left Google, https://blogs.msdn.microsoft.com/jw_on_tech/2012/03/13/why-i-left-google/
+* 2012, James Whittaker, Why I left Google, http://www.docjamesw.com/why-i-left-google-redux/
