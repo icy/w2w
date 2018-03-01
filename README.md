@@ -12,7 +12,7 @@ TOC
 * 2017, Wave, Wave's Big Migration — Why we’re moving to AWS, and what it means for customers, https://blog.waveapps.com/waves-big-migration/
 * 2016, Netflix, Completing the Netflix Cloud Migration, https://media.netflix.com/en/company-blog/completing-the-netflix-cloud-migration
 * 2016, Yik Yak, Migration to Google Cloud Platform, https://medium.com/yik-yak-eng/migration-to-google-cloud-platform-overview-9b5e5c17c368
-* 2016, lugassy, Why we moved from Amazon Web Services to Google Cloud Platform?, https://lugassy.net/why-we-moved-from-amazon-web-services-to-google-cloud-platform-726c412fd667
+* 2016, Lugassy, Why we moved from Amazon Web Services to Google Cloud Platform?, https://lugassy.net/why-we-moved-from-amazon-web-services-to-google-cloud-platform-726c412fd667, https://news.ycombinator.com/item?id=12235003
 * 2016, Spotify, Announcing Spotify Infrastructure’s Googley Future, https://news.spotify.com/us/2016/02/23/announcing-spotify-infrastructures-googley-future/
 * 2016, GitLab, How We Knew It Was Time to Leave the Cloud, https://about.gitlab.com/2016/11/10/why-choose-bare-metal
 * 2016, Fyle, Goodbye, Heroku! Hello, Docker, Kubernetes on AWS!, https://blog.fyle.in/goodbye-heroku-hello-docker-kubernetes-on-aws-211f9eced1e2
