@@ -2,6 +2,7 @@
 ## Infrastructure
 
 * 2016, lugassy, Why we moved from Amazon Web Services to Google Cloud Platform?, https://lugassy.net/why-we-moved-from-amazon-web-services-to-google-cloud-platform-726c412fd667
+* 2016, Spotify, Announcing Spotify Infrastructure’s Googley Future, https://news.spotify.com/us/2016/02/23/announcing-spotify-infrastructures-googley-future/
 * 2010, MixPanel, We’re moving. Goodbye Rackspace, https://code.mixpanel.com/2010/11/08/amazon-vs-rackspace/
 * 2016, GitLab, How We Knew It Was Time to Leave the Cloud, https://about.gitlab.com/2016/11/10/why-choose-bare-metal
 
