@@ -15,6 +15,7 @@ TOC
 * 2016, Spotify, Announcing Spotify Infrastructure’s Googley Future, https://news.spotify.com/us/2016/02/23/announcing-spotify-infrastructures-googley-future/
 * 2016, GitLab, How We Knew It Was Time to Leave the Cloud, https://about.gitlab.com/2016/11/10/why-choose-bare-metal
 * 2013, Soundslice, Why I left Heroku, and notes on my new AWS setup, http://www.holovaty.com/writing/aws-notes/, https://news.ycombinator.com/item?id=5738252
+* 2013, Blippex, Why we moved away from AWS (to OVH), https://blippex.github.io/updates/2013/09/23/why-we-moved-away-from-aws.html
 * 2010, MixPanel, We’re moving. Goodbye Rackspace, https://code.mixpanel.com/2010/11/08/amazon-vs-rackspace/
 
 ## Programming Languages
