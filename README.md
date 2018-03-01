@@ -46,6 +46,7 @@ TOC
 * 2014, Plug.Dj, How To Migrate 50M+ Records From Mongo To PostgreSQL In Less Than A Day, http://web.archive.org/web/20141019214613/http://tech.plug.dj/2014/09/24/how-to-migrate-50mm-records-from-mongo-to-postgresql-in-less-than-a-day/
 * 2013, Errbit, MongoDB is dead. Long live Postgresql :), https://github.com/errbit/errbit/issues/614
 * 2013, Sarah Mei, Why You Should Never Use MongoDB, http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
+* 2012, Andreas Jung, Goodbye MongoDB, https://www.zopyx.com/andreas-jung/contents/goodbye-mongodb
 * 2012, digiDoc, Why I Migrated Away From MongoDB, http://svs.io/post/31724990463/why-i-migrated-away-from-mongodb
 * 2010, Braintree, Scaling PostgreSQL at Braintree: Four Years of Evolution, https://www.braintreepayments.com/blog/scaling-postgresql-at-braintree-four-years-of-evolution/
 * 2009, ServerDensity, Choosing a non-relational database; why we migrated from MySQL to MongoDB, https://blog.serverdensity.com/choosing-a-non-relational-database-why-we-migrated-from-mysql-to-mongodb/
