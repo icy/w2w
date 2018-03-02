@@ -9,6 +9,7 @@ TOC
 
 ## Infrastructure
 
+* 2017, Etsy, Etsy Announces Move to Google Cloud, https://investors.etsy.com/news-and-events/press-releases/2017/12-14-2017-130416690, https://news.ycombinator.com/item?id=15925930
 * 2017, Wave, Wave's Big Migration — Why we’re moving to AWS, and what it means for customers, https://blog.waveapps.com/waves-big-migration/
 * 2016, Netflix, Completing the Netflix Cloud Migration, https://media.netflix.com/en/company-blog/completing-the-netflix-cloud-migration
 * 2016, Yik Yak, Migration to Google Cloud Platform, https://medium.com/yik-yak-eng/migration-to-google-cloud-platform-overview-9b5e5c17c368
