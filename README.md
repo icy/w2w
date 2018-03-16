@@ -39,6 +39,7 @@ TOC
 
 ## Databases
 
+* 2017, Discord, How Discord Stores Billions of Messages, https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
 * 2017, MindMajix, Migration of MongoDB to DynamoDB, https://mindmajix.com/devops/migration-of-mongodb-to-dynamodb
 * 2017, auth0, From Hosting MongoDB to DynamoDB, https://auth0.com/blog/how-to-migrate-from-hosting-mongodb-to-dynamodb/
 * 2017, Gumgum, Moving to amazon dynamodb from hosted cassandra: a leap towards 60% cost saving per year, http://techblog.gumgum.com/articles/moving-to-amazon-dynamodb-from-hosted-cassandra
