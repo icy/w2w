@@ -24,7 +24,6 @@ TOC
 
 ## Programming Languages
 
-* 2017, Containership engineering, DynamoDB to Postgres. Why and How., https://containership.engineering/dynamodb-to-postgres-why-and-how-aa891681af4d
 * 2017, Stream, Why we switched from Python to Go, https://getstream.io/blog/switched-python-go/
 * 2017, Hackernoon, 5 Reasons Why We switched from Python To Go, https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690
 * 2017, Movio, Making The Move From Scala To Go, And Why We’re Not Going Back, https://movio.co/en/blog/migrate-Scala-to-Go/
@@ -39,6 +38,7 @@ TOC
 
 ## Databases
 
+* 2017, Containership engineering, DynamoDB to Postgres. Why and How., https://containership.engineering/dynamodb-to-postgres-why-and-how-aa891681af4d
 * 2017, Discord, How Discord Stores Billions of Messages, https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
 * 2017, MindMajix, Migration of MongoDB to DynamoDB, https://mindmajix.com/devops/migration-of-mongodb-to-dynamodb
 * 2017, auth0, From Hosting MongoDB to DynamoDB, https://auth0.com/blog/how-to-migrate-from-hosting-mongodb-to-dynamodb/
