@@ -9,6 +9,7 @@ TOC
 
 ## Infrastructure
 
+* 2017, Adstage, Migrating from Heroku to AWS, our story, https://medium.com/adstage-engineering/migrating-from-heroku-to-aws-our-story-80084d31025e
 * 2017, Etsy, Etsy Announces Move to Google Cloud, https://investors.etsy.com/news-and-events/press-releases/2017/12-14-2017-130416690, https://news.ycombinator.com/item?id=15925930
 * 2017, Wave, Wave's Big Migration — Why we’re moving to AWS, and what it means for customers, https://blog.waveapps.com/waves-big-migration/
 * 2016, Netflix, Completing the Netflix Cloud Migration, https://media.netflix.com/en/company-blog/completing-the-netflix-cloud-migration
