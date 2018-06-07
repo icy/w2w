@@ -75,9 +75,10 @@ TOC
 * 2018, Gnome, GNOME moves to Gitlab, https://www.gnome.org/news/2018/05/gnome-moves-to-gitlab-2/, https://lwn.net/Articles/722870/
 * 2018, MixMax, To Yarn and Back (to npm) Again, https://mixmax.com/blog/to-yarn-and-back-again-npm
 * 2017, MixMax, Why and how we moved from npm to Yarn, https://mixmax.com/blog/yarn-ifying-mixmax
-
 * 2016, Shippable, Our journey to microservices: mono repo vs multiple repositories, http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository
 * 2016, Beats (Elastic), The Beats are Moving Together into a Single Git Repository, https://www.elastic.co/blog/the-beats-are-moving-together-into-single-git-repository
+* 2017, Munich, Linux pioneer Munich confirms switch to Windows 10, https://www.techrepublic.com/article/end-of-an-open-source-era-linux-pioneer-munich-confirms-switch-to-windows-10/
+* 2003, Munich, Munich breaks with Windows for Linux, https://www.cnet.com/news/munich-breaks-with-windows-for-linux/
 
 ## Why they left or joined a company
 
