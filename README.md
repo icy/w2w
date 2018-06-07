@@ -4,7 +4,7 @@ TOC
 * [Programming Languages](#programming-languages)
 * [Databases](#databases)
 * [Queue](#queue)
-* [SCM](#scm)
+* [SCM and other tools](#scm-and-other-tools)
 * [Why they left or join a company](#why-they-left-or-joined-a-company)
 
 ## Infrastructure
@@ -70,7 +70,10 @@ TOC
 
 * 2015, Auth0 Webtasks, From Kafka to ZeroMQ for real-time log aggregation, https://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html
 
-## SCM
+## SCM and other tools
+
+* 2018, MixMax, To Yarn and Back (to npm) Again, https://mixmax.com/blog/to-yarn-and-back-again-npm
+* 2017, MixMax, Why and how we moved from npm to Yarn, https://mixmax.com/blog/yarn-ifying-mixmax
 
 * 2016, Shippable, Our journey to microservices: mono repo vs multiple repositories, http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository
 * 2016, Beats (Elastic), The Beats are Moving Together into a Single Git Repository, https://www.elastic.co/blog/the-beats-are-moving-together-into-single-git-repository
