@@ -72,6 +72,7 @@ TOC
 
 ## SCM and other tools
 
+* 2018, Gnome, GNOME moves to Gitlab, https://www.gnome.org/news/2018/05/gnome-moves-to-gitlab-2/
 * 2018, MixMax, To Yarn and Back (to npm) Again, https://mixmax.com/blog/to-yarn-and-back-again-npm
 * 2017, MixMax, Why and how we moved from npm to Yarn, https://mixmax.com/blog/yarn-ifying-mixmax
 
