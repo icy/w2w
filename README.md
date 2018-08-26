@@ -30,6 +30,7 @@ TOC
 * 2017, Movio, Making The Move From Scala To Go, And Why We’re Not Going Back, https://movio.co/en/blog/migrate-Scala-to-Go/
 * 2017, Keycloak, Removing Mongo support from Keycloak, http://blog.keycloak.org/2017/02/removing-mongo-support-from-keycloak.html
 * 2017, Yik Yak, Why we moved to Go (Golang)…, https://medium.com/yik-yak-eng/why-we-moved-to-go-golang-c3ff1beb8698
+* 2016, Qiita, What I've learned since quitting Elm, https://qiita.com/kimagure/items/93a42d67a8833f99fe2e, https://news.ycombinator.com/item?id=17846940
 * 2016, Jonathan Oliver, Why I Left the .NET Framework, http://blog.jonathanoliver.com/why-i-left-dot-net/
 * 2016, Keycloak, Considering removing Mongo from Keycloak, http://blog.keycloak.org/2016/12/considering-removing-mongo-from-keycloak.html
 * 2014, TJ Holowaychuk, Farewell Node.js, https://medium.com/@tjholowaychuk/farewell-node-js-4ba9e7f3e52b, https://news.ycombinator.com/item?id=7987146
