@@ -74,6 +74,7 @@ TOC
 
 ## SCM and other tools
 
+* 2018, Matthew Green, Why I’m done with Chrome, https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/, https://news.ycombinator.com/item?id=18052923
 * 2018, Gnome, GNOME moves to Gitlab, https://www.gnome.org/news/2018/05/gnome-moves-to-gitlab-2/, https://lwn.net/Articles/722870/
 * 2018, MixMax, To Yarn and Back (to npm) Again, https://mixmax.com/blog/to-yarn-and-back-again-npm
 * 2017, MixMax, Why and how we moved from npm to Yarn, https://mixmax.com/blog/yarn-ifying-mixmax
