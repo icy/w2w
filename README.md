@@ -25,7 +25,7 @@ TOC
 
 ## Programming Languages
 
-* 2019, Discord, Why Discord is switching from Go to Rust, Why Discord is switching from Go to Rust, https://news.ycombinator.com/item?id=22238335
+* 2020, Discord, Why Discord is switching from Go to Rust, Why Discord is switching from Go to Rust, https://news.ycombinator.com/item?id=22238335
 * 2018, PagerDuty, Elixir at PagerDuty, https://www.pagerduty.com/blog/elixir-at-pagerduty/, https://news.ycombinator.com/item?id=17313087
 * 2017, Stream, Why we switched from Python to Go, https://getstream.io/blog/switched-python-go/
 * 2017, Hackernoon, 5 Reasons Why We switched from Python To Go, https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690
