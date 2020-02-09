@@ -10,6 +10,9 @@ TOC
 ## Infrastructure
 
 * 2019, Twitter, Twitter migrates data to Google Cloud, https://news.ycombinator.com/item?id=18976150
+* 2019, Gitlab, GitLab’s journey from Azure to GCP, https://about.gitlab.com/blog/2019/05/02/gitlab-journey-from-azure-to-gcp/
+* 2018, Gitlab, We’re moving from Azure to Google Cloud Platform, https://about.gitlab.com/blog/2018/06/25/moving-to-gcp/
+* 2017, Gitlab, Why we are not leaving the cloud, https://about.gitlab.com/blog/2017/03/02/why-we-are-not-leaving-the-cloud/
 * 2017, Adstage, Migrating from Heroku to AWS, our story, https://medium.com/adstage-engineering/migrating-from-heroku-to-aws-our-story-80084d31025e
 * 2017, Etsy, Etsy Announces Move to Google Cloud, https://investors.etsy.com/news-and-events/press-releases/2017/12-14-2017-130416690, https://news.ycombinator.com/item?id=15925930
 * 2017, Wave, Wave's Big Migration — Why we’re moving to AWS, and what it means for customers, https://blog.waveapps.com/waves-big-migration/
