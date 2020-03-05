@@ -37,6 +37,7 @@ TOC
 * 2017, Yik Yak, Why we moved to Go (Golang)…, https://medium.com/yik-yak-eng/why-we-moved-to-go-golang-c3ff1beb8698
 * 2016, Qiita, What I've learned since quitting Elm, https://qiita.com/kimagure/items/93a42d67a8833f99fe2e, https://news.ycombinator.com/item?id=17846940
 * 2016, Jonathan Oliver, Why I Left the .NET Framework, http://blog.jonathanoliver.com/why-i-left-dot-net/
+* 2015, Ben Bangert, From Python to Go and Back Again, https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/preview
 * 2014, TJ Holowaychuk, Farewell Node.js, https://medium.com/@tjholowaychuk/farewell-node-js-4ba9e7f3e52b, https://news.ycombinator.com/item?id=7987146
 * 2012, Targeter App, Why we moved from NodeJS to RoR, http://blog.targeterapp.com/post/22984987832/why-we-moved-from-nodejs-to-ror, https://news.ycombinator.com/item?id=3971867
 * 2011, Liip, Why we stick to PHP, https://www.liip.ch/en/blog/why-we-stick-to-php, https://news.ycombinator.com/item?id=2257327
