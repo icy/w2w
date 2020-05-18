@@ -81,11 +81,13 @@ TOC
 
 ## SCM and other tools
 
+* 2020, Munich, Linux not Windows: Why Munich is shifting back from Microsoft to open source – again, https://news.ycombinator.com/item?id=23190447
 * 2018, Matthew Green, Why I’m done with Chrome, https://blog.cryptographyengineering.com/2018/09/23/why-im-leaving-chrome/, https://news.ycombinator.com/item?id=18052923
 * 2018, Gnome, GNOME moves to Gitlab, https://www.gnome.org/news/2018/05/gnome-moves-to-gitlab-2/, https://lwn.net/Articles/722870/
 * 2018, MixMax, To Yarn and Back (to npm) Again, https://mixmax.com/blog/to-yarn-and-back-again-npm
 * 2017, MixMax, Why and how we moved from npm to Yarn, https://mixmax.com/blog/yarn-ifying-mixmax
 * 2017, Munich, Linux pioneer Munich confirms switch to Windows 10, https://www.techrepublic.com/article/end-of-an-open-source-era-linux-pioneer-munich-confirms-switch-to-windows-10/
+* 2016, Gruntwork, Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation, https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
 * 2016, Adriaan de Jonge, Moving from Docker to rkt, https://medium.com/@adriaandejonge/moving-from-docker-to-rkt-310dc9aec938
 * 2016, Shippable, Our journey to microservices: mono repo vs multiple repositories, http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository
 * 2016, Beats (Elastic), The Beats are Moving Together into a Single Git Repository, https://www.elastic.co/blog/the-beats-are-moving-together-into-single-git-repository
