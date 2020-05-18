@@ -92,6 +92,7 @@ TOC
 
 ## Why they left or joined a company
 
+* 2019, Zeb Fitzsimmons, Why I left Google and what I learned, https://medium.com/@zebfitz/why-i-left-google-and-what-i-learned-92a2d5b14752
 * 2018, Michael Lynch, Why I Quit Google to Work for Myself, https://mtlynch.io/why-i-quit-google
 * 2018, Steve Yegge, Why I left Google to join Grab, https://medium.com/@steve.yegge/why-i-left-google-to-join-grab-86dfffc0be84, https://news.ycombinator.com/item?id=16220666
 * 2016, Kurt Varner, Why I'm joining Dropbox, https://medium.com/@kurtvarner/why-im-joining-dropbox-b30f44ce3c61
