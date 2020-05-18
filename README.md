@@ -87,10 +87,12 @@ TOC
 * 2018, MixMax, To Yarn and Back (to npm) Again, https://mixmax.com/blog/to-yarn-and-back-again-npm
 * 2017, MixMax, Why and how we moved from npm to Yarn, https://mixmax.com/blog/yarn-ifying-mixmax
 * 2017, Munich, Linux pioneer Munich confirms switch to Windows 10, https://www.techrepublic.com/article/end-of-an-open-source-era-linux-pioneer-munich-confirms-switch-to-windows-10/
+* 2017, Lyft, SaltStack as an Alternative to Terraform for AWS Orchestration, https://eng.lyft.com/saltstack-as-an-alternative-to-terraform-for-aws-orchestration-cd2ceb06bf8c
 * 2016, Gruntwork, Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation, https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
 * 2016, Adriaan de Jonge, Moving from Docker to rkt, https://medium.com/@adriaandejonge/moving-from-docker-to-rkt-310dc9aec938
 * 2016, Shippable, Our journey to microservices: mono repo vs multiple repositories, http://blog.shippable.com/our-journey-to-microservices-and-a-mono-repository
 * 2016, Beats (Elastic), The Beats are Moving Together into a Single Git Repository, https://www.elastic.co/blog/the-beats-are-moving-together-into-single-git-repository
+* 2014, Lyft, Lyft Replaces Puppet with SaltStack, https://blog.ryandlane.com/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/ and https://www.infoq.com/news/2014/08/lyft-moves-to-saltstack/
 * 2003, Munich, Munich breaks with Windows for Linux, https://www.cnet.com/news/munich-breaks-with-windows-for-linux/
 
 ## Why they left or joined a company
