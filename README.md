@@ -9,6 +9,7 @@ TOC
 
 ## Infrastructure
 
+* 2019, rainforest, Why We Moved from Heroku to Google Kubernetes Engine, https://www.rainforestqa.com/blog/2019-04-02-why-we-moved-from-heroku-to-google-kubernetes-engine
 * 2019, Twitter, Twitter migrates data to Google Cloud, https://news.ycombinator.com/item?id=18976150
 * 2019, Gitlab, GitLab’s journey from Azure to GCP, https://about.gitlab.com/blog/2019/05/02/gitlab-journey-from-azure-to-gcp/
 * 2018, Gitlab, We’re moving from Azure to Google Cloud Platform, https://about.gitlab.com/blog/2018/06/25/moving-to-gcp/
