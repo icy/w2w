@@ -5,7 +5,7 @@
 * [Databases](#databases)
 * [Queue](#queue)
 * [SCM and other tools](#scm-and-other-tools)
-* [Why they left or join a company](#why-they-left-or-joined-a-company)
+* [Why they left or joined a company](#why-they-left-or-joined-a-company)
 
 ## Infrastructure
 
