@@ -58,10 +58,12 @@
 * 2016, Code Barrel, Why we switched from DynamoDB back to RDS before we even released, https://blog.codebarrel.io/why-we-switched-from-dynamodb-back-to-rds-before-we-even-released-3c2ee092120c
 * 2016, Uber, Why Uber Engineering Switched from Postgres to MySQL, https://eng.uber.com/mysql-migration/
 * 2016, Pulp, Plan replacement of mongodb with postgres, https://pulp.plan.io/issues/1803
+* 2016, Datorama, Moving from Hazelcast to Redis, https://engineering.datorama.com/moving-from-hazelcast-to-redis-b90a0769d1cb
 * 2015, Shawn Chiao, Postmortem: Migrating MongoDB to DynamoDB, https://www.codementor.io/mantle0/handling-date-and-datetime-in-dynamodb-du107mpin
 * 2015, Userlike, Bye Bye MySQL & MongoDB. Guten Tag PostgreSQL, https://userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql
 * 2015, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 * 2015, SendwithUs, From PostgreSQL to DynamoDB, http://blog.sendwithus.com/from-postgresql-to-dynamodb/
+* 2015, Hootsuite, Moving Millions of User Sessions from MySQL to Redis, https://medium.com/hootsuite-engineering/moving-millions-of-user-sessions-from-mysql-to-redis-ce709a4e93e9
 * 2014, Plug.Dj, How To Migrate 50M+ Records From Mongo To PostgreSQL In Less Than A Day, http://web.archive.org/web/20141019214613/http://tech.plug.dj/2014/09/24/how-to-migrate-50mm-records-from-mongo-to-postgresql-in-less-than-a-day/
 * 2013, PlotProjects, Why We Started Using PostgreSQL with Slick Next to MongoDB, https://www.plotprojects.com/blog/why-we-use-postgresql-and-slick/
 * 2013, Tellybug, Why Tellybug moved from Cassandra to Amazon DynamoDB, https://attentionshard.wordpress.com/2013/09/30/why-tellybug-moved-from-cassandra-to-amazon-dynamodb/
