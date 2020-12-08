@@ -4,6 +4,7 @@
 * [Programming Languages](#programming-languages)
 * [Databases](#databases)
 * [Queue](#queue)
+* [Licenses](#licenses)
 * [SCM and other tools](#scm-and-other-tools)
 * [Why they left or joined a company](#why-they-left-or-joined-a-company)
 
@@ -82,6 +83,10 @@
 ## Queue
 
 * 2015, Auth0 Webtasks, From Kafka to ZeroMQ for real-time log aggregation, https://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html
+
+## Licenses
+
+* 2020, TerminusDB, We Love GPLv3, but are Switching License to Apache 2.0, https://terminusdb.com/blog/2020/12/08/we-love-gplv3-but-are-switching-license-to-apache-2-0-terminusdb/, https://news.ycombinator.com/item?id=25346965
 
 ## SCM and other tools
 
