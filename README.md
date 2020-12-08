@@ -87,6 +87,7 @@
 ## Licenses
 
 * 2020, TerminusDB, We Love GPLv3, but are Switching License to Apache 2.0, https://terminusdb.com/blog/2020/12/08/we-love-gplv3-but-are-switching-license-to-apache-2-0-terminusdb/, https://news.ycombinator.com/item?id=25346965
+* 2008, NetBSD, The NetBSD Foundation Moves to a Two Clause BSD License, https://mail-index.netbsd.org/netbsd-announce/2008/06/20/msg000030.html
 
 ## SCM and other tools
 
