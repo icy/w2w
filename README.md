@@ -6,6 +6,7 @@
 * [Queue](#queue)
 * [Licenses](#licenses)
 * [SCM and other tools](#scm-and-other-tools)
+* [Stepping away (mainly from open source)](#stepping-away)
 * [Why they left or joined a company](#why-they-left-or-joined-a-company)
 
 ## Infrastructure
@@ -106,6 +107,10 @@
 * 2016, Beats (Elastic), The Beats are Moving Together into a Single Git Repository, https://www.elastic.co/blog/the-beats-are-moving-together-into-single-git-repository
 * 2014, Lyft, Lyft Replaces Puppet with SaltStack, https://blog.ryandlane.com/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/ and https://www.infoq.com/news/2014/08/lyft-moves-to-saltstack/
 * 2003, Munich, Munich breaks with Windows for Linux, https://www.cnet.com/news/munich-breaks-with-windows-for-linux/
+
+## Stepping away
+
+* 2020, Omar Roth, Stepping away from open source, https://omar.yt/posts/stepping-away-from-open-source, https://news.ycombinator.com/item?id=24024230
 
 ## Why they left or joined a company
 
