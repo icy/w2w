@@ -16,7 +16,6 @@
 * 2019, rainforest, Why We Moved from Heroku to Google Kubernetes Engine, https://www.rainforestqa.com/blog/2019-04-02-why-we-moved-from-heroku-to-google-kubernetes-engine
 * 2019, Twitter, Twitter migrates data to Google Cloud, https://news.ycombinator.com/item?id=18976150
 * 2019, Gitlab, GitLab’s journey from Azure to GCP, https://about.gitlab.com/blog/2019/05/02/gitlab-journey-from-azure-to-gcp/
-* 2018, Guardian, Bye bye Mongo, Hello Postgres, https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres, https://news.ycombinator.com/item?id=25551122
 * 2018, Gitlab, We’re moving from Azure to Google Cloud Platform, https://about.gitlab.com/blog/2018/06/25/moving-to-gcp/
 * 2017, Gitlab, Why we are not leaving the cloud, https://about.gitlab.com/blog/2017/03/02/why-we-are-not-leaving-the-cloud/
 * 2017, Adstage, Migrating from Heroku to AWS, our story, https://medium.com/adstage-engineering/migrating-from-heroku-to-aws-our-story-80084d31025e
@@ -28,7 +27,6 @@
 * 2016, Spotify, Announcing Spotify Infrastructure’s Googley Future, https://news.spotify.com/us/2016/02/23/announcing-spotify-infrastructures-googley-future/
 * 2016, GitLab, How We Knew It Was Time to Leave the Cloud, https://about.gitlab.com/2016/11/10/why-choose-bare-metal
 * 2016, Fyle, Goodbye, Heroku! Hello, Docker, Kubernetes on AWS!, https://blog.fyle.in/goodbye-heroku-hello-docker-kubernetes-on-aws-211f9eced1e2
-* 2015, Olery, Goodbye MongoDB, Hello PostgreSQL, https://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/, https://news.ycombinator.com/item?id=9178773
 * 2013, Soundslice, Why I left Heroku, and notes on my new AWS setup, http://www.holovaty.com/writing/aws-notes/, https://news.ycombinator.com/item?id=5738252
 * 2013, Blippex, Why we moved away from AWS (to OVH), https://blippex.github.io/updates/2013/09/23/why-we-moved-away-from-aws.html, https://news.ycombinator.com/item?id=6430753
 * 2010, MixPanel, We’re moving. Goodbye Rackspace, https://code.mixpanel.com/2010/11/08/amazon-vs-rackspace/
@@ -51,6 +49,7 @@
 
 ## Databases
 
+* 2018, Guardian, Bye bye Mongo, Hello Postgres, https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres, https://news.ycombinator.com/item?id=25551122
 * 2017, Containership engineering, DynamoDB to Postgres. Why and How., https://containership.engineering/dynamodb-to-postgres-why-and-how-aa891681af4d
 * 2017, Discord, How Discord Stores Billions of Messages, https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
 * 2017, MindMajix, Migration of MongoDB to DynamoDB, https://mindmajix.com/devops/migration-of-mongodb-to-dynamodb
@@ -65,6 +64,7 @@
 * 2016, Uber, Why Uber Engineering Switched from Postgres to MySQL, https://eng.uber.com/mysql-migration/
 * 2016, Pulp, Plan replacement of mongodb with postgres, https://pulp.plan.io/issues/1803
 * 2016, Datorama, Moving from Hazelcast to Redis, https://engineering.datorama.com/moving-from-hazelcast-to-redis-b90a0769d1cb
+* 2015, Olery, Goodbye MongoDB, Hello PostgreSQL, https://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/, https://news.ycombinator.com/item?id=9178773
 * 2015, Shawn Chiao, Postmortem: Migrating MongoDB to DynamoDB, https://www.codementor.io/mantle0/handling-date-and-datetime-in-dynamodb-du107mpin
 * 2015, Userlike, Bye Bye MySQL & MongoDB. Guten Tag PostgreSQL, https://userlike.com/en/blog/bye-by-mysql-and-mongodb-guten-tag-postgresql
 * 2015, Orely, Goodbye MongoDB, Hello PostgreSQL, http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
