@@ -112,6 +112,7 @@
 
 ## Stepping away
 
+* 2020, Katherine Maher, Stepping Down as CEO of the Wikimedia Foundation (wikimedia.org), https://diff.wikimedia.org/2021/02/04/stepping-down-as-ceo-of-the-wikimedia-foundation/,  https://news.ycombinator.com/item?id=26028146
 * 2020, Omar Roth, Stepping away from open source, https://omar.yt/posts/stepping-away-from-open-source, https://news.ycombinator.com/item?id=24024230
 
 ## Why they left or joined a company
