@@ -61,7 +61,7 @@
 * 2017, OpenSCG's customer, Migrating from MongoDB (back) to PostgreSQL, https://www.openscg.com/2017/03/migrating-from-mongodb-to-postgresql/
 * 2016, Keycloak, Considering removing Mongo from Keycloak, http://blog.keycloak.org/2016/12/considering-removing-mongo-from-keycloak.html
 * 2016, Code Barrel, Why we switched from DynamoDB back to RDS before we even released, https://blog.codebarrel.io/why-we-switched-from-dynamodb-back-to-rds-before-we-even-released-3c2ee092120c
-* 2016, Uber, Why Uber Engineering Switched from Postgres to MySQL, https://eng.uber.com/mysql-migration/
+* 2016, Uber, Why Uber Engineering Switched from Postgres to MySQL, https://eng.uber.com/mysql-migration/, https://news.ycombinator.com/item?id=26283348
 * 2016, Pulp, Plan replacement of mongodb with postgres, https://pulp.plan.io/issues/1803
 * 2016, Datorama, Moving from Hazelcast to Redis, https://engineering.datorama.com/moving-from-hazelcast-to-redis-b90a0769d1cb
 * 2015, Olery, Goodbye MongoDB, Hello PostgreSQL, https://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/, https://news.ycombinator.com/item?id=9178773
