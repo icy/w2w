@@ -50,6 +50,7 @@
 
 ## Databases
 
+* 2020, OkCupid, Vespa vs. Elasticsearch for matching millions of people, https://tech.okcupid.com/vespa-vs-elasticsearch
 * 2018, Guardian, Bye bye Mongo, Hello Postgres, https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres, https://news.ycombinator.com/item?id=25551122
 * 2017, Containership engineering, DynamoDB to Postgres. Why and How., https://containership.engineering/dynamodb-to-postgres-why-and-how-aa891681af4d
 * 2017, Discord, How Discord Stores Billions of Messages, https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
