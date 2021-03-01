@@ -13,6 +13,7 @@
 
 * 2020, Cloudflare, How we use HashiCorp Nomad, https://blog.cloudflare.com/how-we-use-hashicorp-nomad, https://news.ycombinator.com/item?id=23439788
 * 2020, Coinbase, Container technologies at Coinbase (Why Kubernetes is not part of our stack), https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c, https://news.ycombinator.com/item?id=23460066
+* 2019, Tinder, Tinder’s move to Kubernetes, https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44
 * 2019, rainforest, Why We Moved from Heroku to Google Kubernetes Engine, https://www.rainforestqa.com/blog/2019-04-02-why-we-moved-from-heroku-to-google-kubernetes-engine
 * 2019, Twitter, Twitter migrates data to Google Cloud, https://news.ycombinator.com/item?id=18976150
 * 2019, Gitlab, GitLab’s journey from Azure to GCP, https://about.gitlab.com/blog/2019/05/02/gitlab-journey-from-azure-to-gcp/
@@ -49,6 +50,7 @@
 
 ## Databases
 
+* 2020, OkCupid, Vespa vs. Elasticsearch for matching millions of people, https://tech.okcupid.com/vespa-vs-elasticsearch
 * 2018, Guardian, Bye bye Mongo, Hello Postgres, https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres, https://news.ycombinator.com/item?id=25551122
 * 2017, Containership engineering, DynamoDB to Postgres. Why and How., https://containership.engineering/dynamodb-to-postgres-why-and-how-aa891681af4d
 * 2017, Discord, How Discord Stores Billions of Messages, https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
