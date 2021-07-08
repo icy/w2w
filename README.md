@@ -11,6 +11,7 @@
 
 ## Infrastructure
 
+* 2021, Koyeb, The Koyeb Serverless Engine: from Kubernetes to Nomad, Firecracker, and Kuma, https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma, https://news.ycombinator.com/item?id=27761881
 * 2020, Cloudflare, How we use HashiCorp Nomad, https://blog.cloudflare.com/how-we-use-hashicorp-nomad, https://news.ycombinator.com/item?id=23439788
 * 2020, Coinbase, Container technologies at Coinbase (Why Kubernetes is not part of our stack), https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c, https://news.ycombinator.com/item?id=23460066
 * 2019, Tinder, Tinder’s move to Kubernetes, https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44
